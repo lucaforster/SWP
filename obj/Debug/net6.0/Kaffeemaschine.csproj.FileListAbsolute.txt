@@ -1,0 +1,7 @@
+C:\Users\astri\Documents\HTL\3bWI\SWP\Kaffeemaschine\obj\Debug\net6.0\Kaffeemaschine.csproj.AssemblyReference.cache
+C:\Users\astri\Documents\HTL\3bWI\SWP\Kaffeemaschine\obj\Debug\net6.0\Kaffeemaschine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\astri\Documents\HTL\3bWI\SWP\Kaffeemaschine\obj\Debug\net6.0\Kaffeemaschine.AssemblyInfoInputs.cache
+C:\Users\astri\Documents\HTL\3bWI\SWP\Kaffeemaschine\obj\Debug\net6.0\Kaffeemaschine.AssemblyInfo.cs
+C:\Users\astri\Documents\HTL\3bWI\SWP\Kaffeemaschine\obj\Debug\net6.0\Kaffeemaschine.csproj.CoreCompileInputs.cache
+C:\Users\astri\Documents\HTL\3bWI\SWP\Kaffeemaschine\obj\Debug\net6.0\Kaffeemaschine.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\astri\Documents\HTL\3bWI\SWP\Kaffeemaschine\obj\Debug\net6.0\Kaffeemaschine.MvcApplicationPartsAssemblyInfo.cache
